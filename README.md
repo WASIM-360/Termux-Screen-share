@@ -23,13 +23,13 @@ ALL DONE !!! এবার লিঙ্ক দিয়ে আপনি আপনা
 প্রসেস এন্ড করতে Termux এপ  এ CTRL +  D টাইপ করেন ।
 
 
-`
+
 ©️ @wasim-360 Share With Credits !
 
-Share & Keep Supporting Us
+   Share & Keep Supporting Us
 
 
-`
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
